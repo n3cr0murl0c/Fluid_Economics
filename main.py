@@ -1,6 +1,8 @@
-from helpers import *
+from gui import *
 
 def main():
+
+    run_gui()
 
     return print('Hello World')
 
